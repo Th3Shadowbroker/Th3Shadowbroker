@@ -5,3 +5,9 @@
 - 📫 How to reach me: [Email](mailto:webmaster@m4taiori.de) [Twitter](https://twitter.com/m4taiori)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love drinking tea or cola
+
+#### My stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3Shadowbroker&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Shadowbroker&theme=dark&layout=compact&langs_count=6"/>
+</div>
