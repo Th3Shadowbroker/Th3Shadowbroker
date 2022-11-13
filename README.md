@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a variety of projects
 - 👯 I’m looking to collaborate on awesome opensource projects
 - 💬 Ask me about anything you want
-- 📫 How to reach me: [Email](mailto:webmaster@m4taiori.de) [Twitter](https://twitter.com/m4taiori)
+- 📫 How to reach me: [Email](mailto:webmaster@m4taiori.de) [Twitter](https://twitter.com/m4taiori) <a href="https://mastodon.social/@m4taiori" rel="me">Mastodon</a>
 - 😄 Pronouns: he/him or they/them
 - ⚡ Fun fact: I love drinking tea or cola
 
