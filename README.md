@@ -4,7 +4,7 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: [Email](mailto:webmaster@m4taiori.de) [Twitter](https://twitter.com/m4taiori) <a href="https://mastodon.social/@m4taiori" rel="me">Mastodon</a>
 - 😄 Pronouns: he/him or they/them
-- ⚡ Fun fact: I love drinking tea or cola
+- ⚡ Fun fact: I love drinking tea and cola
 
 #### My stats
 <div align="center">
