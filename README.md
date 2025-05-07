@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on a variety of projects
 - 👯 I’m looking to collaborate on awesome opensource projects
 - 💬 Ask me about anything you want
-- 📫 How to reach me: [Email](mailto:webmaster@m4taiori.de) [Twitter](https://twitter.com/m4taiori) <a href="https://mastodon.social/@m4taiori" rel="me">Mastodon</a>
+- 📫 How to reach me: [Email](mailto:th3shadowbroker@protonmail.com)
 - 😄 Pronouns: he/him or they/them
-- ⚡ Fun fact: I love drinking tea and cola
+- ⚡ Fun fact: I love drinking tea
 
 #### My stats
 <div align="center">
