@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a variety of projects
 - 👯 I’m looking to collaborate on awesome opensource projects
 - 💬 Ask me about anything you want
-- 📫 How to reach me: [Email](mailto:th3shadowbroker@protonmail.com) or via Matrix @th3shadowbroker:erebos.cc
+- 📫 How to reach me: [Email](mailto:th3shadowbroker@protonmail.com) or via Matrix [@th3shadowbroker:erebos.cc](https://matrix.to/?ref=github.com#/@th3shadowbroker:erebos.cc)
 - 😄 Pronouns: he/him or they/them
 - ⚡ Fun fact: I love drinking tea
 
